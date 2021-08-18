@@ -1,0 +1,29 @@
+a {
+    text-decoration: none;
+    color: black;
+}
+.vague {
+    z-index: 1;
+}
+
+.upwave {
+    z-index: 3;
+}
+.socialcard {
+    width: 500px;
+    height: 200px;
+    border-radius: 15px;
+    background-color: #292929;
+    color: white;
+    text-decoration: none;
+    list-style: none;
+    list-style-type: none;
+}
+li {
+    list-style-type: none;
+}
+footer {
+    background-color: #3549ff;
+    color: white;
+    border-radius: 25px;
+}
